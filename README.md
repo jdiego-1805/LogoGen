@@ -2,14 +2,11 @@
 
 ## Description
 
-
-## Usage
-
 This project will generate a logo with 3 or fewer characters in it.
 
-## Questions
+## Link
 
-https://github.com/n/a
+
 
 ## License
 
